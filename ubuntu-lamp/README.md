@@ -11,4 +11,4 @@ Into the machine, you need to execute this command:
 ```Shell
 chmod +x /vagrant/setup.sh && /vagrant/setup.sh
 ```
-Thats it!! On the host machine you can access with your browser http://localhost/
+Thats it!! On the host machine you can access with your browser http://localhost:8080/
